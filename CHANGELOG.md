@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.3 (2018/07/23)
+
+*	Do not set global variable if it does not exist.
+
 ## 4.0.2 (2012/07/11)
 
 *	Replace "then" with correct "than" in all error messages. (Identified by stefanw)
