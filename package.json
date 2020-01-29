@@ -1,8 +1,8 @@
 {
 	"name" : "@kernel-panic/jsv",
-	"version" : "4.0.3",
+	"version" : "4.0.4",
 	"description" : "A JavaScript implementation of a extendable, fully compliant JSON Schema validator.",
-	"homepage" : "http://github.com/garycourt/JSV",
+	"homepage" : "http://github.com/jehy/JSV",
 	"author" : "Gary Court <gary.court@gmail.com>",
 	"licenses" : [
 		{
@@ -23,7 +23,7 @@
 	"repositories" : [
 		{
 			"type" : "git",
-			"url" : "git://github.com/garycourt/JSV.git"
+			"url" : "git://github.com/jehy/JSV.git"
 		}
 	],
 	"dependencies" : [],

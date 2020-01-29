@@ -1,6 +1,12 @@
 JSV: JSON Schema Validator
 ==========================
 
+# Fork!
+
+This is a fork of abandoned JSV project with fixes for strict mode.
+
+## About JSV
+
 JSV is a JavaScript implementation of a extendable, fully compliant JSON Schema validator with the following features:
 
 *	The fastest extendable JSON validator available!

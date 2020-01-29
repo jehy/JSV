@@ -1,8 +1,12 @@
 # Changelog
 
+## 4.0.4 (2019/01/29)
+
+*	Update docs
+
 ## 4.0.3 (2018/07/23)
 
-*	Do not set global variable if it does not exist.
+*	Do not set global variable if it does not exist. Now this package can be used in strict mode.
 
 ## 4.0.2 (2012/07/11)
 
