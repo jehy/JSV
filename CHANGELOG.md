@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.5 (2019/01/29)
+
+*	Remove extra files from npm publication
+
 ## 4.0.4 (2019/01/29)
 
 *	Update docs
